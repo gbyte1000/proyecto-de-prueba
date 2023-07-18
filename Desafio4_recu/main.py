@@ -4,7 +4,7 @@ from contacto import *
 
 # Tarea 1: Instanciar un objeto Celular, dos Aplicaciones y dos Contactos.
 moto99 = Celular("Motorola", "X99")
-replit = Aplicacion("Replit", "1.0.2") 
+replit = Aplicacion("Replit", "1.0.3") 
 vscode = Aplicacion("VSCode", "2.0.0") 
 vim = Aplicacion("VIM", "3.0.0") 
 
